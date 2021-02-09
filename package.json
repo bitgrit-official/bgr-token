@@ -1,0 +1,23 @@
+{
+  "name": "bgr-token",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://boombamboom@github.com/bitgrit-official/bgr-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitgrit-official/bgr-token/issues"
+  },
+  "homepage": "https://github.com/bitgrit-official/bgr-token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
+  }
+}
